@@ -1,0 +1,15 @@
+{
+  "name": "aos-create",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "AOS",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@electron/remote": "^2.0.10",
+    "electron": "^25.3.0"
+  }
+}
